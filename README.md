@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ## 👋 こんにちは！
 
-<span align="center">
+<p align="center">
 ## محمد فراس | Mohamed Firas | モハメド フィラス
-</span>
+</p>
 
 I'm an aspiring full stack developer from Tunisia, currently living in Japan.
 フルスタックエンジニアを目指しているチュニジアからの留学生です。
