@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 ## 👋 こんにちは！
----
 ## محمد فراس | Mohamed Firas | モハメド フィラス
 
 
@@ -40,8 +39,7 @@ I'm an aspiring full stack developer from Tunisia, currently living in Japan.
 
 ---
 
-
 ## 📫 他のリンク
 - *メール*: contact@firas.jp
-- *ホームページ*: [firas.jp](https://firas.jp/about)
-- *LinkedIn*: [Mohamed Firas Aguel](https://linkedin.com/in/firasaguel)
+- *ホームページ*: [firas.jp/](https://firas.jp/about)
+- *Qiita*: [Firas](https://qiita.com/in/Firas)
