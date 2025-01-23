@@ -44,4 +44,4 @@ I'm an aspiring full stack developer from Tunisia, currently living in Japan.
 ## 📫 他のリンク
 - *メール*: contact@firas.jp
 - *ホームページ*: [firas.jp](https://firas.jp/about)
-- *Qiita*: [Firas](https://qiita.com/in/Firas)
+- *Qiita*: [Firas](https://qiita.com/Firas)
