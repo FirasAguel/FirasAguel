@@ -17,18 +17,15 @@ Here are some ideas to get you started:
 -->
 
 
+
 ## 👋 こんにちは！
+---
+## محمد فراس | Mohamed Firas | モハメド フィラス
 
-## Mohamed Firas Aguel | アゲール モハメド フィラス
 
-- 🌏 **留学生** | チュニジア → 日本
-- 📚 **学歴**:
-  - 東京都立大学 | 情報科学専攻
-  - 大島商船高専卒業
-- 💻 **開発スキル**:
-  - 言語: Python, JavaScript, C++, Java
-  - フレームワーク: Flask, Next.js, Streamlit
-  - その他: 機械学習、競技プログラミング、Web開発
+I'm an aspiring full stack developer from Tunisia, currently living in Japan.
+フルスタックエンジニアを目指しているチュニジアからの留学生です。
+
 - 🌱 **現在の関心**:
   - フルスタックエンジニアへの道
   - 機械学習 & アルゴリズム開発
@@ -36,33 +33,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Projects & Contributions
-
-### 🔍 ML Projects
-- 強化学習でゲームAIを開発
-- 機械学習で大腸がん検診モデルを作成
-
-### 🛠 Web Development
-- Flaskで企業向けのWebアプリを開発
-- Next.jsとTypeScriptで学生インターン探しのプラットフォームを構築
-
-### 🌍 その他
-- Streamlitでデータ可視化ツールを作成
-- OpenCVを使用したリアルタイムマーカー追跡
-
----
-
-## 📫 連絡はこちら！
-- **メール**: firas@firas.jp
-- **ポートフォリオ**: [firas.jp](https://firas.jp)
-- **LinkedIn**: [Mohamed Firas Aguel](https://linkedin.com/in/firasaguel)
-
----
-
 ### 🏆 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasaguel&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasaguel&layout=compact&theme=tokyonight)
 
 ---
 
-ありがとう！興味があれば気軽に連絡してください！
+
+## 📫 他のリンク
+- *メール*: contact@firas.jp
+- *ホームページ*: [firas.jp](https://firas.jp/about)
+- *LinkedIn*: [Mohamed Firas Aguel](https://linkedin.com/in/firasaguel)
