@@ -36,7 +36,6 @@ I'm an aspiring full stack developer from Tunisia, currently living in Japan.
 
 ### 🏆 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasaguel&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasaguel&layout=compact&theme=tokyonight)
 
 ---
